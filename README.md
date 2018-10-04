@@ -1,4 +1,5 @@
 # A Killer Vue.js Blog Demo: Launch in 2 Hours Tops
+![Open Source](https://cdn.rawgit.com/ellerbrock/open-source-badges/master/badges/open-source-v1/open-source.svg)
 
 ![vuejs-blog-demo](https://snipcart.com/media/175864/build-vuejs-blog-copy.jpg)
 
